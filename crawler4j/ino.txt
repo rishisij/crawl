@@ -1,0 +1,193 @@
+Viscosity
+Vapor pressure
+Van der Waals radius
+V-agents
+Units and formations
+Unit cell
+UNII
+UN number
+Ultraviolet fluorescence
+PEL
+Twinning
+Trade names
+Threshold Limit Value
+Thermodynamic data
+Thermal conductivity
+Tenacity
+Strunz classification
+Structure and properties
+Streak
+tributyl phosphate
+THF
+tetrahydrofuran
+sulfuric acid
+Sulfolane
+organic solvents
+Methylpyrrolidone
+methanol
+hydroxylamine
+glycerol
+formamide
+Dimethylformamide
+Dimethyl sulfoxide
+chlorocarbons
+ammonium hydroxide
+Ammonia
+alcohol acid
+Alcohol
+acid
+acetone
+acetic acid
+Solubility
+Shock sensitivity
+S-phrases
+RTECS number
+Riot control
+vanadiums
+vanadium oxides
+uranium fluorides
+triazines
+titanium oxides
+titanium chlorides
+thionyl halides
+tetrahalosilanes
+tellurium oxides
+sulfuryl halides
+sulfur oxides
+sulfur fluorides
+sulfur chlorides
+strong acids
+solvents
+sodium oxides
+silicon oxides
+semiconductor
+selenium oxides
+rubidium oxides
+ceramic
+phosphorus oxoacids
+phosphorus chlorides
+osmium oxides
+Nitrogen oxides
+nitrogen hydrides
+niobium chlorides
+monosilanes
+molybdenum oxides
+manganese oxides
+lubricants
+ligands
+Lewis acids
+lead oxides
+interhalogen compounds
+hydroxylammonium salts
+hydrogen chalcogenides
+hydrides
+hydride
+high-Tc superconductors
+halogen oxoacids
+disilanes
+diones
+dichlorosilanes
+desiccants
+coagulants
+chlorosilanes
+chloromethanes
+carbon oxides
+boron compounds
+alkanes
+alkanenitriles
+R-phrases
+Pulmonary
+PubChem
+Protein binding
+Pleochroism
+Oxidation state
+Odor
+NFPA 704
+Nettle
+Nerve
+MSDS
+Molecular shape
+Molar mass
+Molar heat capacity
+Mol. mass
+Mohs scale hardness
+Metabolism
+MeSH
+Meltingpoint
+Melting point
+MedlinePlus
+Main hazards
+Magnetic susceptibility
+Magnetic ordering
+Luster
+log P
+Legal status
+LD50
+Lattice constant
+kH
+KEGG
+iso
+Incapacitating
+Hybridisation
+Heatoffusion
+Heat of vaporization
+Half-life
+Group, period, block
+Gmelin Reference
+GHS signal word
+GHS precautionary statements
+GHS pictograms
+GHS hazard statements
+Fusibility
+Friction sensitivity
+Fracture
+Formula
+Flash point
+First isolation
+Explosive velocity
+Explosive limits
+Excretion
+EU Index
+EU classification
+Equipment
+Elimination half-life
+Element category
+Electronegativity
+Electron mobility
+Electron configuration
+Electrical resistivity
+EC number
+DrugBank
+Dispersion
+Discovery
+Dipole moment
+Diaphaneity
+Density
+Crystal system
+Crystal symmetry
+Crystal structure
+Crystal habit
+Criticalpoint
+Covalent radius
+Color
+Cleavage
+ChemSpider
+ChEMBL
+ChEBI
+CAS registry number
+CAS number
+Boilingpoint
+Boiling point
+Blood
+Blister
+Birefringence
+Bioavailability
+Beilstein Reference
+Basicity (pKb)
+Band gap
+ATCvet code
+ATC code
+Appearance
+anhydrous
+Acidity (pKa)
+Abbreviations

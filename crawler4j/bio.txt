@@ -1,0 +1,156 @@
+Xanthine derivatives
+Water
+Viscosity
+Vesicular
+Vapor pressure
+VACM-1
+UniProt
+UNII
+UN number
+Thermodynamic data
+propylene glycol
+other solvents
+methanol
+diethyl ether
+ethanol
+glycerol
+ethanol
+DMSO
+chloroform
+acetone
+acetic acid
+SMILES
+RTECS number
+ROSC[36]
+Riboflavin (vit. B2)
+Reuptake inhibitors
+ureas
+Ketones
+keto-acids
+carboxylic acids
+compounds
+carboxylic acids
+aromatic compounds
+alkenals
+alkanoic acids
+alkanamines
+aldopentoses
+aldehydes
+hydroxy acids
+protein
+mRNA
+Receptor ligands
+Racetams
+R-phrases
+Pyrrolidines
+PubMed
+PubChem
+PROSITE
+Prolyl endopeptidase inhibitors
+PRIAM
+Pregnancy
+Precursors
+Potassium
+Plasmalemmal
+Plants
+Piperazines
+Phytochemicals
+Phenmetrazines
+Pfam clan
+Percolated coffee
+PDB structures
+PDB
+Oxazolines
+Others
+Other cations
+Other anions
+Organism
+OPM superfamily
+OPM protein
+OMIM
+Odor
+NIAID ChemDB
+NFPA 704
+Neurogenics
+MSDS
+Molecular shape
+Molecular function
+Molecular formula
+Molar mass
+Misc:
+MetaCyc
+Metabolism
+MeSH
+MEROPS
+Melting point
+Melt. point
+MedlinePlus
+Main hazards
+M: PSO/PSI
+Lactic acid
+KEGG
+Jolt Cola
+Iron
+InterPro
+IntEnz
+ICD-9
+ICD-10
+HUGO
+Histamine
+Hersheys 
+Half-life
+Guayakí yerba mate
+Guaraná Antarctica
+Gmelin
+Glycone
+Glutamate receptor
+GHS pictograms
+GHS hazard statements
+Geometry
+Gene Ontology
+Eugeroics
+EU Index
+Entrez
+Ensembl
+Energy
+EC-number
+DrugBank
+Drip coffee
+Dopamine
+Dipole moment
+Dependence liability
+Density
+Crystal structure
+Convulsants
+Cofactors
+Chromosome
+Chiral rotation
+ChemSpider
+ChEMBL
+ChEBI
+sympathomimetics
+Catabolism
+CAS number
+Carbohydrates
+Calcium
+Caffeine
+BRENDA
+Bioavailability
+Benzazepines
+Beilstein
+BChE
+AVPR2
+AVPR1B
+AVPR3
+AVPR1A
+ATCvet
+Arylcyclohexylamines
+Appearance
+Antioxidants
+Anabolism
+Ampakines
+Alkylamines
+Adenosine
+antagonists
+Adamantanes
+Acidity
